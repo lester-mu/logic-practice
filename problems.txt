@@ -21,3 +21,12 @@ Sum of the First N Numbers
 """
 factorial
 """
+
+
+"""
+Reverse number
+"""
+
+"""
+Prime number
+"""
