@@ -30,3 +30,7 @@ Reverse number
 """
 Prime number
 """
+
+"""
+finonacci
+"""
