@@ -34,3 +34,7 @@ Prime number
 """
 finonacci
 """
+
+"""
+multiples of a number
+"""
