@@ -38,3 +38,15 @@ finonacci
 """
 multiples of a number
 """
+
+"""
+Sum of digit
+"""
+
+"""
+Triangle Area
+"""
+
+"""
+Guess the number
+"""
